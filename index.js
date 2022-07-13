@@ -76,6 +76,6 @@ mongoose.connect(MONGODB_URI, () => {
     console.log("connected to db");
 })
 let obj = {
-  name: "Mukul",
+  name: "Vansh",
   roll: 11
 }
